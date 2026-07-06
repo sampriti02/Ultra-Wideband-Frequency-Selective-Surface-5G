@@ -1,24 +1,36 @@
 # Ultra-Wideband Frequency Selective Surface (FSS) for 5G Communication Systems
 
 ![IEEE](https://img.shields.io/badge/Publication-IEEE-blue)
-![Tool](https://img.shields.io/badge/Simulation-CST%20Studio%20Suite-orange)
-![Field](https://img.shields.io/badge/Domain-Electromagnetics-green)
+![Simulation](https://img.shields.io/badge/Tool-CST%20Studio%20Suite-orange)
+![Domain](https://img.shields.io/badge/Domain-Electromagnetics-green)
+
+---
 
 ## Overview
 
-This repository presents the design and simulation of an Ultra-Wideband Frequency Selective Surface (FSS) for next-generation 5G communication systems. The work focuses on achieving wide operating bandwidth, improved angular stability, and efficient electromagnetic filtering for spatial filtering applications.
+This repository presents the design, simulation and performance analysis of an Ultra-Wideband Frequency Selective Surface (FSS) for 5G communication systems. The proposed structure was designed and optimized using CST Studio Suite to achieve wide bandwidth, high angular stability and effective electromagnetic filtering for spatial filtering applications.
 
-This research has been published in IEEE conference proceedings.
+The work has been published in IEEE Conference Proceedings.
+
+---
+
+## Research Highlights
+
+- Ultra-Wideband Frequency Selective Surface
+- Designed using CST Studio Suite
+- Optimized for 5G communication systems
+- Excellent electromagnetic filtering performance
+- IEEE Published Research
 
 ---
 
 ## Objectives
 
 - Design a compact FSS unit cell
-- Achieve ultra-wideband performance
+- Achieve ultra-wideband operation
 - Improve angular stability
 - Analyze transmission characteristics
-- Validate the design using CST Studio Suite
+- Validate through full-wave electromagnetic simulations
 
 ---
 
@@ -32,32 +44,35 @@ This research has been published in IEEE conference proceedings.
 
 ## Methodology
 
-1. Unit cell design
-2. Electromagnetic simulation
-3. Parameter optimization
-4. Frequency response analysis
-5. Performance validation
+1. Unit Cell Design
+2. Parameter Optimization
+3. Electromagnetic Simulation
+4. S-Parameter Analysis
+5. Performance Validation
 
 ---
 
-## Project Structure
+## Repository Structure
 
 ```
-Images/
 Paper/
+CST_Files/
+Images/
 Results/
 README.md
 ```
 
 ---
 
-## Key Features
+## Skills Demonstrated
 
-- Ultra-wideband response
-- Compact FSS structure
-- High angular stability
-- Spatial filtering applications
-- 5G communication support
+- Electromagnetic Simulation
+- Frequency Selective Surface Design
+- CST Studio Suite
+- Wireless Communication
+- 5G Antenna Engineering
+- Technical Research
+- IEEE Paper Writing
 
 ---
 
@@ -73,6 +88,9 @@ Published in IEEE Conference Proceedings.
 
 **Sampriti Haldar**
 
-Electronics and Communication Engineering
+B.Tech, Electronics and Communication Engineering
+
+Institute of Engineering and Management, Kolkata
+
 
 Institute of Engineering and Management (IEM), Kolkata
