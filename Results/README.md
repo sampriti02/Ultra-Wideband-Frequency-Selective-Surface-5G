@@ -1,3 +1,11 @@
-# Results
+# Simulation Results
 
-Simulation outputs including S-parameters, bandwidth analysis, and validation figures.
+This folder contains the simulation outputs obtained from CST Studio Suite.
+
+## Contents
+
+- S-Parameter plots
+- Frequency response
+- Surface current distribution
+- Electric field distribution
+- Magnetic field distribution
