@@ -90,7 +90,4 @@ Published in IEEE Conference Proceedings.
 
 B.Tech, Electronics and Communication Engineering
 
-Institute of Engineering and Management, Kolkata
-
-
 Institute of Engineering and Management (IEM), Kolkata
